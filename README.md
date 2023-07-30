@@ -1,4 +1,4 @@
-![image](https://github.com/basharat10/basharat10/assets/132546148/aab42082-a3f8-47a2-992e-ffea617d3e5d)
+![image](https://github.com/basharat10/basharat10/assets/132546148/d59ebd26-d62e-40e3-9365-06ac27499d0b)
 
 <h1 align="center">Hi 👋, I'm Basharat Khan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
