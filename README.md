@@ -1,8 +1,8 @@
+![image](https://github.com/basharat10/basharat10/assets/132546148/aab42082-a3f8-47a2-992e-ffea617d3e5d)
 
-
-![Header](./[[Your header image](https://dribbble.com/shots/6139167-Avento-marketing/attachments/11278854?mode=media)])
 <h1 align="center">Hi 👋, I'm Basharat Khan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basharat10&label=Profile%20views&color=0e75b6&style=flat" alt="basharat10" /> </p>
